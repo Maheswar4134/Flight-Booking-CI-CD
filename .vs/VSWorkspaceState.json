@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\airflow_job",
+    "\\spark_job",
+    "\\variables",
+    "\\variables\\dev",
+    "\\variables\\prod"
+  ],
+  "SelectedNode": "\\variables\\prod\\variables.json",
+  "PreviewInSolutionExplorer": false
+}
